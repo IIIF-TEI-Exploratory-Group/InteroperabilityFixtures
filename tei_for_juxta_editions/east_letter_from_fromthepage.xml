@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:lang="EN" xml:id="export">
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="full">
+        <title type="main">George East to Thomas East</title>
+        <title type="desc">Letter from George East to Thomas East</title>
+      </title>
+      <author>
+        <persName/>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition>Edition created from new transcripts of this manuscript.</edition>
+      <respStmt xml:id="AU2">
+        <resp>Initial upload of this work's facsimile images and metadata to FromThePage.com for editing</resp>
+        <persName>Ben W. Brumfield</persName>
+      </respStmt>
+
+      <respStmt xml:id="OU2">
+        <resp>Adminstrator of the East Civil War Letters transcription project on FromThePage.com</resp>
+        <persName>Ben W. Brumfield</persName>
+      </respStmt>
+
+        <respStmt xml:id="U2">
+          <persName>Ben W. Brumfield</persName>
+            <resp>
+              made 4 edits between
+              <date type="first_edit" when="2010-06-10T13:57:11Z">June 10, 2010</date> and
+              <date type="last_edit" when="2010-09-01T22:24:04Z">September  1, 2010</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U11">
+          <persName>Mary Ann Towler Brumfield</persName>
+            <resp>
+              made 2 edits between
+              <date type="first_edit" when="2010-07-11T10:40:50Z">July 11, 2010</date> and
+              <date type="last_edit" when="2010-07-12T11:19:41Z">July 12, 2010</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U148">
+          <persName>Nat Wooding</persName>
+            <resp>
+              made one edit on
+              <date type="only_edit" when="2013-05-26T13:37:04Z">May 26, 2013</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U740">
+          <persName>UVA Law Library</persName>
+            <resp>
+              made one edit on
+              <date type="only_edit" when="2017-03-06T14:57:08Z">March  6, 2017</date>.
+            </resp>
+        </respStmt>
+        <respStmt xml:id="U47">
+          <persName>Elizabeth Shook</persName>
+            <resp>
+              made one edit on
+              <date type="only_edit" when="2010-06-10T15:38:51Z">June 10, 2010</date>.
+            </resp>
+        </respStmt>
+    </editionStmt>
+
+    <publicationStmt>
+      <publisher>Dynamic TEI export from FromThePage</publisher>
+      <availability>
+        <p/>
+      </availability>
+      <date when="2017-08-28T13:19:03+00:00">August 28, 2017</date>
+    </publicationStmt>
+
+    <sourceDesc>
+      <msDesc>
+        <msIdentifier>
+          <collection>East Civil War Letters</collection>
+        </msIdentifier>
+        <physDesc>
+          <p/>
+        </physDesc>
+        <history>
+          <origin>
+            <placeName/>
+          </origin>
+          <provenance/>
+        </history>
+      </msDesc>
+
+
+    </sourceDesc>
+
+  </fileDesc>
+
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+</taxonomy>
+
+    </classDecl>
+  </encodingDesc>
+
+  <profileDesc>
+  </profileDesc>
+
+  <revisionDesc>
+    <listChange ordered="true">
+        <change xml:id="CHG19" who="U740" when="2017-03-06T14:57:08Z" target="#P1870">
+          Version 12 of page "Letter Front":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG18" who="U148" when="2013-05-26T13:37:04Z" target="#P1870">
+          Version 11 of page "Letter Front":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG17" who="U2" when="2010-09-01T22:24:04Z" target="#P1870">
+          Version 10 of page "Letter Front":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG16" who="U2" when="2010-07-16T06:12:41Z" target="#P1870">
+          Version 9 of page "Letter Front":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG15" who="U11" when="2010-07-12T11:19:41Z" target="#P1870">
+          Version 8 of page "Letter Front":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG14" who="U11" when="2010-07-11T10:40:50Z" target="#P1870">
+          Version 7 of page "Letter Front":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG13" who="U2" when="2010-07-08T10:47:06Z" target="#P1870">
+          Version 6 of page "Letter Front":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG12" who="U47" when="2010-06-10T15:38:51Z" target="#P1870">
+          Version 5 of page "Letter Front":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG11" who="U2" when="2010-06-10T13:59:43Z" target="#P1870">
+          Version 4 of page "Letter Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG10" who="U2" when="2010-06-10T13:59:28Z" target="#P1870">
+          Version 3 of page "Letter Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG9" who="U2" when="2010-06-10T13:59:23Z" target="#P1870">
+          Version 2 of page "Letter Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG8" who="U2" when="2010-06-10T13:58:05Z" target="#P1870">
+          Version 1 of page "Letter Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG7" who="U2" when="2010-06-10T13:57:38Z" target="#P1870">
+          Version 0 of page "Letter Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG6" who="U2" when="2010-06-10T13:57:11Z" target="#P1869">
+          Version 6 of page "Envelope Front":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG5" who="U2" when="2010-06-10T13:55:41Z" target="#P1869">
+          Version 5 of page "Envelope Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG4" who="U2" when="2010-06-10T13:55:40Z" target="#P1869">
+          Version 4 of page "Envelope Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG3" who="U2" when="2010-06-10T13:55:31Z" target="#P1869">
+          Version 3 of page "Envelope Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG2" who="U2" when="2010-06-10T13:55:30Z" target="#P1869">
+          Version 2 of page "Envelope Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG1" who="U2" when="2010-06-10T13:55:29Z" target="#P1869">
+          Version 1 of page "Envelope Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG0" who="U2" when="2010-06-10T13:54:41Z" target="#P1869">
+          Version 0 of page "Envelope Front":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+    </listChange>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+  <body>
+      <pb xml:id="F1869" n="1" facs="/home/fromthe/fromthepage/releases/20100307220340/public/images/working/upload/1869.jpg"/>
+        <div xml:id="OTP1869">
+        <fw type="pageNum">Envelope Front</fw>
+        <p corresp="TTP1869P0" xml:id="OTP1869P0">Mr. Thomas C. East<lb/>
+
+</p>
+
+<p corresp="TTP1869P1" xml:id="OTP1869P1"> Pittsylvania Co Ho<lb/>
+
+</p>
+
+<p corresp="TTP1869P2" xml:id="OTP1869P2"> Va
+</p>
+
+
+        </div>
+      <pb xml:id="F1870" n="2" facs="/home/fromthe/fromthepage/releases/20100307220340/public/images/working/upload/1870.jpg"/>
+        <div xml:id="OTP1870">
+        <fw type="pageNum">Letter Front</fw>
+        <p corresp="TTP1870P0" xml:id="OTP1870P0">         Louisa County on August 16th 1862<lb/>
+
+</p>
+
+<p corresp="TTP1870P1" xml:id="OTP1870P1"> My Dear Father<lb/>
+
+</p>
+
+<p corresp="TTP1870P2" xml:id="OTP1870P2"> This beautiful evening finds me <lb/>
+ at Louisia Courthouse a distance from Richmond <lb/>
+ of 55 miles north of Richmond we have one<lb break="no"/> only just halted at Louisia Courthouse to wait<lb/>
+ for the wagons and the Ballance of Auxillary Div<lb/>
+ ision wee will leave hear to night or tomorrow<lb/>
+ and go towards Gordonsville or at Gordonsville<lb/>
+ Wee understand that Jackson has taken up a <lb/>
+ March in pursuit of the Yankees so wee will be<lb/>
+ apt to follow on after him There is a larger ar<lb break="no"/> my already at Jacksons command equal or more <lb/>
+ than was at Richmond.<lb/>
+
+</p>
+
+<p corresp="TTP1870P3" xml:id="OTP1870P3"> Jackson Yeatts and Chim Watson and Green <lb/>
+ Walton are all well I sent by Quit [Crist?] Wooding<lb/>
+ $60.00 to go home you must send me<lb/>
+ word whether you have got it or not this is a <lb/>
+ beautiful country I am very much pleased<lb/>
+ with it so far as I have seen the water is good.<lb/>
+ I will close until wee go further I can not tell<lb/>
+ you now until my next letter where to direct<lb/>
+ your letter I will wright again as soon as wee<lb/>
+ take up station camp further in northern Va<lb/>
+ if I live and am not killed by the Yankees &amp;<lb/>
+ I hope I wont be hurt I will add no more<lb/>
+
+</p>
+
+<p corresp="TTP1870P4" xml:id="OTP1870P4"> From Your Son              George W East<lb/>
+ To Thomas East Esq.<lb/>
+
+</p>
+
+
+            <note resp="#U66">Testing</note>
+            <note resp="#U148">I cannot identify the Wooding. The first letter of his given name appears to be a C (look at the Watson in the previous line) but there was only one Wooding from Virginia who was enlisted in the CSA and his middle initial was C. There was an S.D. Wooding in the 53rd but I know nothing about him. He could have been a civilian (maybe a slave?) who had some reason to visit the 53rd but I have not identified him yet.  Nat Wooding</note>
+        </div>
+  </body>
+</text>
+</TEI>
