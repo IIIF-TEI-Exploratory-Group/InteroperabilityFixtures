@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:lang="EN" xml:id="export">
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="full">
+        <title type="main">Note from John Henry Newman to an unnamed recipient, apologising for his inability to answer letters, due to old age.</title>
+        <title type="desc">Note from John Henry Newman to an unnamed recipient, apologising for his inability to answer letters, due to old age.
+
+Composed 16 July 1889.</title>
+      </title>
+      <author>
+        <persName>Newman, John Henry, 1801-1890</persName>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition>Edition created from new transcripts of this manuscript.</edition>
+      <respStmt xml:id="AU662">
+        <resp>Initial upload of this work's facsimile images and metadata to FromThePage.com for editing</resp>
+        <persName>John B Howard</persName>
+      </respStmt>
+
+      <respStmt xml:id="OU662">
+        <resp>Adminstrator of the UCD Letters transcription project on FromThePage.com</resp>
+        <persName>John B Howard</persName>
+      </respStmt>
+
+        <respStmt xml:id="U662">
+          <persName>John B Howard</persName>
+            <resp>
+              made 7 edits between
+              <date type="first_edit" when="2017-03-02T05:38:14Z">March  2, 2017</date> and
+              <date type="last_edit" when="2017-05-14T06:38:11Z">May 14, 2017</date>.
+            </resp>
+        </respStmt>
+    </editionStmt>
+
+    <publicationStmt>
+      <publisher>Dynamic TEI export from FromThePage</publisher>
+      <availability>
+        <p>Note from John Henry Newman to an unnamed recipient, apologising for his inability to answer letters, due to old age. is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</p>
+      </availability>
+      <date when="2017-09-02T20:23:04-05:00">September  2, 2017</date>
+    </publicationStmt>
+
+    <sourceDesc>
+      <msDesc>
+        <msIdentifier>
+          <collection>UCD Letters</collection>
+        </msIdentifier>
+        <physDesc>
+          <p>1 letter, 9.75 x 9.75 cm</p>
+        </physDesc>
+        <history>
+          <origin>
+            <placeName>UCD Library. UCD Library Special Collections. UCD Letters. UCD L 7</placeName>
+          </origin>
+          <provenance/>
+        </history>
+      </msDesc>
+
+        <listPerson>
+            <person xml:id="S11277">
+              <persName>Stafford</persName>
+            </person>
+            <person xml:id="S11278">
+              <persName>Newman, John Henry, 1801-1890</persName>
+                <note>
+                    <p corresp="TTPS11278P0" xml:id="OTPS11278P0">http://viaf.org/viaf/17227308
+</p>
+
+
+                </note>
+            </person>
+        </listPerson>
+
+    </sourceDesc>
+
+  </fileDesc>
+
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+</taxonomy>
+
+    </classDecl>
+  </encodingDesc>
+
+  <profileDesc>
+  </profileDesc>
+
+  <revisionDesc>
+    <listChange ordered="true">
+        <change xml:id="CHG8" who="U662" when="2017-05-14T06:38:11Z" target="#P18252">
+          Version 8 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG7" who="U662" when="2017-05-14T06:36:11Z" target="#P18252">
+          Version 7 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG6" who="U662" when="2017-03-09T19:01:42Z" target="#P18252">
+          Version 6 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG5" who="U662" when="2017-03-09T19:01:24Z" target="#P18252">
+          Version 5 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG4" who="U662" when="2017-03-09T19:01:08Z" target="#P18252">
+          Version 4 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG3" who="U662" when="2017-03-03T06:33:01Z" target="#P18252">
+          Version 3 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG2" who="U662" when="2017-03-02T05:38:14Z" target="#P18252">
+          Version 2 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG1" who="U662" when="2017-03-02T05:34:09Z" target="#P18252">
+          Version 1 of page "recto":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG0" who="U662" when="2017-03-02T05:34:09Z" target="#P18252">
+          Version 0 of page "recto":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+    </listChange>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+  <body>
+      <div xml:id="original">
+          <pb xml:id="FO18252" n="1" facs="https://iiif.ucd.ie/loris/ivrla:3850/full/full/0/default.jpg"/>      
+          <div xml:id="OTP18252">
+          <fw type="pageNum">recto</fw>
+          <p corresp="TTP18252P0" xml:id="OTP18252P0">{written within a border of single rules}<lb/>
+ I regret to say I am too old<lb/>
+ to attempt to answer letters<lb/>
+ and that I wish I could send<lb/>
+ Mr <rs ref="#S11277">Stafford</rs>? a better autograph<lb/>
+ than this.<lb/>
+
+</p>
+
+<p corresp="TTP18252P1" xml:id="OTP18252P1"> July 16. 1889<lb/>
+
+</p>
+
+<p corresp="TTP18252P2" xml:id="OTP18252P2"> <rs ref="#S11278">John H Newman</rs>
+</p>
+
+
+          </div>
+      </div>
+      <div xml:id="translation">
+          <pb xml:id="FT18252" n="1" facs="https://iiif.ucd.ie/loris/ivrla:3850/full/full/0/default.jpg"/>      
+          <div xml:id="TTP18252">
+          <fw type="pageNum">recto</fw>
+          <p corresp="OTP18252P0" xml:id="TTP18252P0">Ich bedauere zu sagen, daß ich zu alt bin<lb/>
+ Briefe beantworten zu versuchen<lb/>
+ und daß ich wünsche, ich könne<lb/>
+ dem Herrn Stafford? ein besseres Autogramm senden,<lb/>
+ als dieses.<lb/>
+
+</p>
+
+<p corresp="OTP18252P1" xml:id="TTP18252P1"> Juli 16. 1889<lb/>
+
+</p>
+
+<p corresp="OTP18252P2" xml:id="TTP18252P2"> John H Newman
+</p>
+
+
+          </div>
+      </div>
+  </body>
+</text>
+</TEI>
