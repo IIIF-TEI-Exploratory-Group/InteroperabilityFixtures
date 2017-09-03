@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xml:lang="EN" xml:id="export">
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="full">
+        <title type="main">Letter from John Henry Newman (The Oratory) to Dr. Woodlock, referring to 'Dr. Lyons's able address'.</title>
+        <title type="desc">Letter from John Henry Newman (The Oratory) to Dr. Woodlock, referring to "Dr. Lyons's able address."
+
+Composed at The Oratory, Birmingham, England, 16 November 1872.</title>
+      </title>
+      <author>
+        <persName>Newman, John Henry, 1801-1890</persName>
+      </author>
+    </titleStmt>
+
+    <editionStmt>
+      <edition>Edition created from new transcripts of this manuscript.</edition>
+      <respStmt xml:id="AU662">
+        <resp>Initial upload of this work's facsimile images and metadata to FromThePage.com for editing</resp>
+        <persName>John B Howard</persName>
+      </respStmt>
+
+      <respStmt xml:id="OU662">
+        <resp>Adminstrator of the UCD Letters transcription project on FromThePage.com</resp>
+        <persName>John B Howard</persName>
+      </respStmt>
+
+        <respStmt xml:id="U662">
+          <persName>John B Howard</persName>
+            <resp>
+              made 7 edits between
+              <date type="first_edit" when="2017-03-04T02:56:40Z">March  4, 2017</date> and
+              <date type="last_edit" when="2017-03-04T03:10:19Z">March  4, 2017</date>.
+            </resp>
+        </respStmt>
+    </editionStmt>
+
+    <publicationStmt>
+      <publisher>Dynamic TEI export from FromThePage</publisher>
+      <availability>
+        <p/>
+      </availability>
+      <date when="2017-09-03T08:33:16-05:00">September  3, 2017</date>
+    </publicationStmt>
+
+    <sourceDesc>
+      <msDesc>
+        <msIdentifier>
+          <collection>UCD Letters</collection>
+        </msIdentifier>
+        <physDesc>
+          <p>1 leaf ; 10.25 x 15.5 cm</p>
+        </physDesc>
+        <history>
+          <origin>
+            <placeName>UCD Library. UCD Library Special Collections. UCD Letters. UCD L &lt;https://digital.ucd.ie/view/ivrla:3846&gt;</placeName>
+          </origin>
+          <provenance/>
+        </history>
+      </msDesc>
+
+        <listPerson>
+            <person xml:id="S11278">
+              <persName>Newman, John Henry, 1801-1890</persName>
+                <note>
+                    <p corresp="TTPS11278P0" xml:id="OTPS11278P0">http://viaf.org/viaf/17227308
+</p>
+
+
+                </note>
+            </person>
+            <person xml:id="S11290">
+              <persName>Woodlock, Bartholomew, 1819-1902</persName>
+                <note>
+                    <p corresp="TTPS11290P0" xml:id="OTPS11290P0">http://viaf.org/viaf/254402223
+</p>
+
+
+                </note>
+            </person>
+            <person xml:id="S11291">
+              <persName>Lyon</persName>
+            </person>
+        </listPerson>
+
+        <listPlace>
+            <place xml:id="S11289">
+              <placeName>The Oratory, Birmingham, England</placeName>
+                <note>
+                    <p corresp="TTPS11289P0" xml:id="OTPS11289P0">https://en.wikipedia.org/wiki/Birmingham_Oratory
+</p>
+
+
+                </note>
+            </place>
+        </listPlace>
+    </sourceDesc>
+
+  </fileDesc>
+
+
+  <profileDesc>
+  </profileDesc>
+
+  <revisionDesc>
+    <listChange ordered="true">
+        <change xml:id="CHG10" who="U662" when="2017-03-04T03:10:19Z" target="#P18246">
+          Version 5 of page "verso":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG9" who="U662" when="2017-03-04T03:10:10Z" target="#P18245">
+          Version 4 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG8" who="U662" when="2017-03-04T03:09:25Z" target="#P18246">
+          Version 4 of page "verso":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG7" who="U662" when="2017-03-04T03:08:56Z" target="#P18245">
+          Version 3 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG6" who="U662" when="2017-03-04T03:02:05Z" target="#P18246">
+          Version 3 of page "verso":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG5" who="U662" when="2017-03-04T03:00:49Z" target="#P18246">
+          Version 2 of page "verso":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG4" who="U662" when="2017-03-04T02:56:40Z" target="#P18245">
+          Version 2 of page "recto":
+            Changes to page transcript.
+        </change>
+        <change xml:id="CHG3" who="U662" when="2017-03-02T05:30:57Z" target="#P18246">
+          Version 1 of page "verso":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG2" who="U662" when="2017-03-02T05:30:57Z" target="#P18246">
+          Version 0 of page "verso":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG1" who="U662" when="2017-03-02T05:30:57Z" target="#P18245">
+          Version 1 of page "recto":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+        <change xml:id="CHG0" who="U662" when="2017-03-02T05:30:57Z" target="#P18245">
+          Version 0 of page "recto":
+            Empty transcript -- probably initial upload of page facsimile.
+        </change>
+    </listChange>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+  <body>
+        <pb xml:id="F18245" n="1" facs="https://iiif.ucd.ie/loris/ivrla:3847/full/full/0/default.jpg"/>      
+        <div xml:id="OTP18245">
+        <fw type="pageNum">recto</fw>
+        <p corresp="TTP18245P0" xml:id="OTP18245P0"><rs ref="#S11289">The Oratory</rs><lb/>
+
+</p>
+
+<p corresp="TTP18245P1" xml:id="OTP18245P1"> Nov 16. 1872<lb/>
+
+</p>
+
+<p corresp="TTP18245P2" xml:id="OTP18245P2"> My dear Dr <rs ref="#S11290">Woodlock</rs><lb/>
+ I suppose it is you<lb/>
+ thatI have to thank for a portion<lb/>
+ of Dr <rs ref="#S11291">Lyon</rs>'s able address.  His<lb/>
+ ability is shown by the fact of the<lb/>
+ Times having thought it necessary to<lb/>
+ reply to it. He spoke on the same<lb/>
+ subject on one of our annual openings<lb/>
+
+</p>
+
+<p corresp="TTP18245P3" xml:id="OTP18245P3"/>
+        </div>
+        <pb xml:id="F18246" n="2" facs="https://iiif.ucd.ie/loris/ivrla:3848/full/full/0/default.jpg"/>      
+        <div xml:id="OTP18246">
+        <fw type="pageNum">verso</fw>
+        <p corresp="TTP18246P0" xml:id="OTP18246P0">When I was in Dublin, he has now<lb/>
+ put into form and carried out in <lb/>
+ fullness the argument which he then<lb/>
+ sketched. I hope you are in good<lb/>
+ spirits about the prospects of the Uni<lb break="no"/> versity, and I hope that you are by<lb/>
+ this this time properly restored in health.<lb/>
+
+</p>
+
+<p corresp="TTP18246P1" xml:id="OTP18246P1"> I am, My dear Dr <rs ref="#S11290">Woodlock</rs><lb/>
+ Very sincerely yours<lb/>
+ <rs ref="#S11278">John H Newman</rs>
+</p>
+
+
+        </div>
+  </body>
+</text>
+</TEI>
